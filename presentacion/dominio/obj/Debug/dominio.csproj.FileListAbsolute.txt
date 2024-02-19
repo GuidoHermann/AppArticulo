@@ -1,0 +1,6 @@
+C:\Users\guido\Desktop\TPFinalNivel2_HermannAlzogaray\presentacion\dominio\bin\Debug\dominio.dll
+C:\Users\guido\Desktop\TPFinalNivel2_HermannAlzogaray\presentacion\dominio\bin\Debug\dominio.pdb
+C:\Users\guido\Desktop\TPFinalNivel2_HermannAlzogaray\presentacion\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\guido\Desktop\TPFinalNivel2_HermannAlzogaray\presentacion\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\guido\Desktop\TPFinalNivel2_HermannAlzogaray\presentacion\dominio\obj\Debug\dominio.dll
+C:\Users\guido\Desktop\TPFinalNivel2_HermannAlzogaray\presentacion\dominio\obj\Debug\dominio.pdb
